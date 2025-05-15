@@ -5,5 +5,5 @@ function FindProxyForURL(url, host) {
     }
 
     // Usar proxy para todas las demás páginas
-    return "PROXY 104.233.26.218:6056";
+    return "PROXY 46.3.124.181:50100";
 }
